@@ -1,0 +1,52 @@
+Problema
+        Calcular el área de un triángulo
+
+Entradas
+        base - número decimal
+        altura - número decimal
+
+Salidas
+     área - número decimal
+
+Proceso
+    1- Pedir base
+    2- Pedir altura
+    3- Multiplicar la base * altura y guardar en mult
+    4- Dividir mult / 2 y guardar en área
+    5- Mostrar área
+
+Casos de prueba
+
+Entradas
+     Base = 5
+     Altura = 15
+
+Salida esperada 
+     área = 37.5
+Resultado obtenido
+     área = 37.5
+
+
+
+
+
+PROBLEMA: Validar un precio, el precio es válido cuando es positivo (> 0)
+
+ENTRADAS
+        precio - decimal
+SALIDAS:
+        verdadero/falso - 
+        "Es valido" / "No es valido"
+
+PROCESO
+        1. PEDIR PRECIO
+        2. SÍ precio > 0
+               2 . 1. - DEVOLVER VERDADERO
+        3. Sí precio <= 0
+               3 . 1 - DEVOLVER FALSO
+
+
+
+
+
+
